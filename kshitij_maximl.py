@@ -16,6 +16,6 @@ def longestUniqueSubsttr(string):
 
 	return res 
 
-string = input()
+string = input("Enter string in lowercases : ")
 length = longestUniqueSubsttr(string) 
 print (str(length)) 
